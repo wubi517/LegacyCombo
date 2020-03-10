@@ -76,7 +76,7 @@
 -keep class * {
     public private *;
 }
--keep class com.newiptvusa.** { *; }
+-keep class com.legacycombo.** { *; }
 -keep class org.acra.** { *; }
 -keep class android.app.** { *; }
 -keep class android.content.res.** { *; }
